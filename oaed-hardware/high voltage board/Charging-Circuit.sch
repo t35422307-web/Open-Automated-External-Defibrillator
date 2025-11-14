@@ -17,8 +17,7 @@ LIBS:analog_switches
 LIBS:motorola
 LIBS:texas
 LIBS:intel
-LIBS:audio
-LIBS:interface
+LIBS:aud
 LIBS:digital-audio
 LIBS:philips
 LIBS:display
